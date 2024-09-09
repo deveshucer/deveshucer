@@ -1,7 +1,6 @@
 # Devesh Kumar #
-##### Technical Lead @ [redBus India](https://www.redbus.in)
 
-- 👋 Hi, I’m Devesh, currently working @ [redBus India](https://www.redbus.in), as a Technical Lead
+- 👋 Hi, I’m Devesh, currently working as a Technical Lead
 - 👀 I’m interested in system design, golang, event driven artitecture, kafka, microservice artitecture
 - 🌱 I’m currently learning
   + Golang
