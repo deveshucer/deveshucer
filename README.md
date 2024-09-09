@@ -11,7 +11,7 @@
 ![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshucer&show_icons=true&theme=radical)
 
 - 📫 connect with me at 
-[linkedIn](https://www.linkedin.com/in/deveshucer/)
+<!--[linkedIn](https://www.linkedin.com/in/deveshucer/) -->
 
 <!---
 deveshucer/deveshucer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
